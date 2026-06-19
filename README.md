@@ -67,16 +67,7 @@ The project is designed to strengthen understanding of core C programming concep
 
 ## 📸 Project Screenshot
 
-> Add your screenshot inside the repository and replace the file name below.
-
-```markdown
-![Calculator Output](screenshots/output.png)
-```
-
-Example:
-
-![Calculator Output](<img width="1920" height="1020" alt="output_01" src="https://github.com/user-attachments/assets/a5bea590-b4c8-4017-a2ae-89ff203746b0" />
-)(<img width="1920" height="1020" alt="output_02" src="https://github.com/user-attachments/assets/c37e3ae8-2398-41ea-aab1-e47ff57cdaf4" />)
+<img width="1920" height="1020" alt="output_02" src="https://github.com/user-attachments/assets/c37e3ae8-2398-41ea-aab1-e47ff57cdaf4" />
 
 ---
 
